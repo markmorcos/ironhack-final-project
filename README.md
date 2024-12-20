@@ -60,3 +60,7 @@ Curtis Hawthorne, Andriy Stasyuk, Adam Roberts, Ian Simon, Cheng-Zhi Anna Huang,
 - Key, chord and cadence analysis as extra features
 - Test advanced ML models like Neural Networks.
 - Expand dataset with more compositions and periods.
+
+## Slides
+
+https://www.canva.com/design/DAGZw4KY1Xo/EgfImz2Jw0DOmofjMOzZhA/edit
